@@ -1,0 +1,36 @@
+.Nav {
+  background-color: navy;
+  margin-right: 30%;
+  margin-left: 30%;
+  height: 40px;
+  border-radius: 4px;
+}
+
+.Nav-Link {
+  position: relative;
+  top: 9px;
+  margin-right: 5px;
+  margin-left: 5px;
+  padding: 0px 5px 0px 5px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+.Nav-Link:hover {
+  background-color: lightgray;
+  border-radius: 3px;
+}
+
+.pending {
+  position: relative;
+  top: 9px;
+  margin-right: 5px;
+  margin-left: 5px;
+  padding: 0px 5px 0px 5px;
+  color: rgb(247, 247, 247);
+  text-decoration: none;
+}
+
+.active {
+  background-color: rgb(158, 158, 158);
+  border-radius: 3px;
+}

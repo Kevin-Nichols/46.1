@@ -1,0 +1,213 @@
+.machine {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 820px;
+  width: 400px;
+  /* margin-left: 41%; */
+}
+
+.machine-img {
+  height: 800px;
+}
+
+.x {
+  font-size: 46pt;
+  opacity: 0%;
+}
+
+/* Diet Buttons---------------------------------------------- */
+.diet-1 {
+  position: relative;
+  bottom: 71.5%;
+  left: 8%;
+  height: 78px;
+  width: 60px;
+  border-radius: 5px;
+  opacity: 35%;
+  background-color: grey;
+}
+.diet-1:hover {
+  background-color: grey;
+  opacity: 0%;
+  border-radius: 5px;
+}
+
+.diet-2 {
+  position: relative;
+  bottom: 80.8%;
+  left: 76.5%;
+  height: 78px;
+  width: 60px;
+  border-radius: 5px;
+  opacity: 35%;
+  background-color: grey;
+}
+.diet-2:hover {
+  background-color: grey;
+  opacity: 0%;
+  border-radius: 5px;
+}
+
+.diet-3 {
+  position: relative;
+  bottom: 68.8%;
+  left: 8.5%;
+  height: 78px;
+  width: 60px;
+  border-radius: 5px;
+  opacity: 35%;
+  background-color: grey;
+}
+.diet-3:hover {
+  background-color: grey;
+  opacity: 0%;
+  border-radius: 5px;
+}
+
+.diet-4 {
+  position: relative;
+  bottom: 78%;
+  left: 76.5%;
+  height: 78px;
+  width: 60px;
+  border-radius: 5px;
+  opacity: 35%;
+  background-color: grey;
+}
+.diet-4:hover {
+  background-color: grey;
+  opacity: 0%;
+  border-radius: 5px;
+}
+
+/* Pepsi Buttons---------------------------------------------- */
+.pepsi-1 {
+  position: relative;
+  bottom: 109.5%;
+  left: 24.5%;
+  height: 78px;
+  width: 60px;
+  border-radius: 5px;
+  opacity: 35%;
+  background-color: grey;
+}
+.pepsi-1:hover {
+  background-color: grey;
+  opacity: 0%;
+  border-radius: 5px;
+}
+
+.pepsi-2 {
+  position: relative;
+  bottom: 118.9%;
+  left: 60.6%;
+  height: 78px;
+  width: 60px;
+  border-radius: 5px;
+  opacity: 35%;
+  background-color: grey;
+}
+.pepsi-2:hover {
+  background-color: grey;
+  opacity: 0%;
+  border-radius: 5px;
+}
+
+.pepsi-3 {
+  position: relative;
+  bottom: 106.8%;
+  left: 24.5%;
+  height: 78px;
+  width: 60px;
+  border-radius: 5px;
+  opacity: 35%;
+  background-color: grey;
+}
+.pepsi-3:hover {
+  background-color: grey;
+  opacity: 0%;
+  border-radius: 5px;
+}
+
+.pepsi-4 {
+  position: relative;
+  bottom: 116.2%;
+  left: 60.6%;
+  height: 78px;
+  width: 60px;
+  border-radius: 5px;
+  opacity: 35%;
+  background-color: grey;
+}
+.pepsi-4:hover {
+  background-color: grey;
+  opacity: 0%;
+  border-radius: 5px;
+}
+
+/* Water Buttons---------------------------------------------- */
+.water-1 {
+  position: relative;
+  bottom: 136.7%;
+  left: 8%;
+  height: 78px;
+  width: 60px;
+  border-radius: 5px;
+  opacity: 35%;
+  background-color: grey;
+}
+.water-1:hover {
+  background-color: grey;
+  opacity: 0%;
+  border-radius: 5px;
+}
+
+.water-2 {
+  position: relative;
+  bottom: 146.1%;
+  left: 76.5%;
+  height: 78px;
+  width: 60px;
+  border-radius: 5px;
+  opacity: 35%;
+  background-color: grey;
+}
+.water-2:hover {
+  background-color: grey;
+  opacity: 0%;
+  border-radius: 5px;
+}
+
+/* Mountain Dew Buttons---------------------------------------------- */
+.md-1 {
+  position: relative;
+  bottom: 155.5%;
+  left: 24.5%;
+  height: 78px;
+  width: 60px;
+  border-radius: 5px;
+  opacity: 35%;
+  background-color: grey;
+}
+.md-1:hover {
+  background-color: grey;
+  opacity: 0%;
+  border-radius: 5px;
+}
+
+.md-2 {
+  position: relative;
+  bottom: 165%;
+  left: 60.6%;
+  height: 78px;
+  width: 60px;
+  border-radius: 5px;
+  opacity: 35%;
+  background-color: grey;
+}
+.md-2:hover {
+  background-color: grey;
+  opacity: 0%;
+  border-radius: 5px;
+}
